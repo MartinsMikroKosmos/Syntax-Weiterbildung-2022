@@ -1,2 +1,4 @@
-# Syntax-Weiterbildung-2022
-Weiterbildung Appdev
+# WebUi
+
+## About
+This is my first project on GitHub. Have fun!
